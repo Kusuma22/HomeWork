@@ -1,0 +1,6 @@
+puts "This is my first ruby program"
+print "Learning Ruby"
+print "Ruby is a gem"
+puts "Ruby is awesome"
+print "Cucumber is written in ruby"
+puts "Executing Ruby"
